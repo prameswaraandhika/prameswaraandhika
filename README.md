@@ -1,13 +1,15 @@
 ### Hi there,  I'm Andhika Prameswara👋
-#### Techstack
-<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a> 
- <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
+
 
 - 🌱 I’m currently learning Java, Springboot, SQL.
 - 👯 I’m looking to collaborate on Software Development.
 - 📫 How to reach me: https://www.linkedin.com/in/prameswaradev/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to code and solving competitive programming problem using Java
+
+#### Techstack
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a> 
+ <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
 
 <p align="left">
 <a href="https://github.com/prameswaraandhika">
