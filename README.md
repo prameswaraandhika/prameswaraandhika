@@ -1,5 +1,8 @@
 ### Hi there,  I'm Andhika Prameswara👋
 
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a> 
+ <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
+
 - 🌱 I’m currently learning Java, Springboot, SQL.
 - 👯 I’m looking to collaborate on Software Development.
 - 📫 How to reach me: https://www.linkedin.com/in/prameswaradev/
@@ -12,5 +15,4 @@
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prameswaraandhika&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-http://www.w3.org/2000/svg
 </p>
