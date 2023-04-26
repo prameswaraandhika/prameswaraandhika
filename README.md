@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Software Development.
 - 📫 How to reach me: https://www.linkedin.com/in/prameswaradev/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to code and solving competitive programming problem using java and python.
+- ⚡ Fun fact: I like to code and solving competitive programming problem using Java
 
 <p align="left">
 <a href="https://github.com/prameswaraandhika">
