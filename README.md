@@ -7,7 +7,6 @@
 ### 💻 Languages and Tools
 <div align="center">
  	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin" /></code>
 	<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" alt="Figma" title="JavaFX" /></code>
  	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png" alt="Vaadin" title="Vaadin" /></code>
  	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" /></code>
