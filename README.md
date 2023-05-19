@@ -4,7 +4,6 @@
 
  I'm Andhika Prameswara, a Software Developer with expertise in developing scalable and high-performance web applications using Java, Springboot, and Hibernate. In addition to Web Application Development, I had experience in Android Development using Kotlin, which allows me to create end-to-end solutions that provide a seamless user experience across multiple platforms.
  
-### 💻 Languages and Tools
 <div align="center">
  	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 	<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" alt="Figma" title="JavaFX" /></code>
