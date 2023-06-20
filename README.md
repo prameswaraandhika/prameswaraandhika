@@ -1,4 +1,4 @@
-# 🤖 Andhika Prameswara
+# Andhika Prameswara
 
 **`Software Developer`**
 
