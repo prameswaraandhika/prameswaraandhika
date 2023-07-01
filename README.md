@@ -1,32 +1,49 @@
-# Andhika Prameswara
-
-**`Software Developer`**
-
- I'm Andhika Prameswara, a Software Developer with expertise in developing scalable and high-performance web applications using Java, Springboot, and Hibernate. In addition to Web Application Development, I had experience in Android Development using Kotlin, which allows me to create end-to-end solutions that provide a seamless user experience across multiple platforms.
- 
-<div align="center">
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
-	<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" alt="Figma" title="JavaFX" /></code>
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png" alt="Vaadin" title="Vaadin" /></code>
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" /></code>
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" /></code>
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok" /></code>
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate" /></code>
- 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
-	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD" /></code>
-</div>
 
 
-<br />
+## Andhika Prameswara - Software Developer
+- Email: prameswaara@gmail.com
+- LinkedIn: https://www.linkedin.com/in/prameswaradev/
+- Blog: https://prameswaradev.blogspot.com/
 
-#
+## Summary
+- I frequently solve problems on platforms such as HackerRank and LeetCode, which has helped me develop my problem-solving skills and stay up to date with the 	 
+  latest trends in programming
+- Currently working as freelance Software Developer.
+- As a Java Programming Instructor at the UKM Computer Club in my campus, I had the opportunity to teach Java programming concepts and techniques to fellow 
+  students.
 
-<!-- <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a> 
- <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
- -->
- <br>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prameswaraandhika&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+## Skills
+<p align="left"> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
+  </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Lob-dev/Lob-dev/assets/67903919/7fff36de-35c6-4355-8cf9-5040acb84458" alt="Representational_state_transfer" width="60" height="60"/> 
+  </a>
+  <a href="https://github.com/graphql/graphql-spec" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Lob-dev/Lob-dev/assets/67903919/1d6ce16a-8392-4dce-9e7b-fe494a7eda32" alt="graphql" width="60" height="60"/> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Jakarta_Persistence" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/67903919/151687201-299dd254-b976-43d8-8d4d-0571c5cb48f3.svg" alt="jpa" width="60" height="60"/> 
+  </a>
+  <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
+  </a> 
 </p>
+
+Please feel free to reach out to me through email or LinkedIn if you have any questions or would like to collaborate on software development projects. I'm excited to connect with you and discuss how I can contribute to your team.
