@@ -1,4 +1,6 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prameswaraandhika&theme=github_dark)
 
+  
 
 ## Andhika Prameswara - Software Developer
 Please feel free to reach out to me through email or LinkedIn if you have any questions or would like to collaborate on software development projects. I'm excited to connect with you and discuss how I can contribute to your team.
@@ -6,12 +8,16 @@ Please feel free to reach out to me through email or LinkedIn if you have any qu
 - LinkedIn: https://www.linkedin.com/in/prameswaradev/
 - Blog: https://prameswaradev.blogspot.com/
 
+  
+
 ## Summary
 - I frequently solve problems on platforms such as HackerRank and LeetCode, which has helped me develop my problem-solving skills and stay up to date with the 	 
   latest trends in programming
 - Currently working as freelance Software Developer.
 - As a Java Programming Instructor at the UKM Computer Club in my campus, I had the opportunity to teach Java programming concepts and techniques to fellow 
   students.
+- I am a passionate Java Swing enthusiast, finding joy in crafting intuitive and interactive graphical user interfaces using this powerful Java library. I enjoy 
+  leveraging Java Swing's capabilities to create visually appealing and user-friendly applications.
 
 ## Tools & Technologies
 ![Java](https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=openjdk&logoColor=white)
