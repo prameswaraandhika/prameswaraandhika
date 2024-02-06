@@ -1,5 +1,5 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prameswaraandhika&theme=github_dark)
-  
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />  
+
 ## Andhika Prameswara - Software Developer
 Please feel free to reach out to me through email or LinkedIn if you have any questions or would like to collaborate on software development projects. I'm excited to connect with you and discuss how I can contribute to your team.
 - Email: prameswaara@gmail.com
