@@ -1,6 +1,6 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zheeeng&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prameswaraandhika&layout=compact&hide=css,html)
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=prameswaraandhika&count_private=true&show_icons=true&theme=onedark)
 
 ## Andhika Prameswara - Software Developer
 Please feel free to reach out to me through email or LinkedIn if you have any questions or would like to collaborate on software development projects. I'm excited to connect with you and discuss how I can contribute to your team.
