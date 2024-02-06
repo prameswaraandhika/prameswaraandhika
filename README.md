@@ -1,8 +1,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prameswaraandhika&theme=github_dark)
   
 ## Andhika Prameswara - Software Developer
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prameswaraandhika&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 Please feel free to reach out to me through email or LinkedIn if you have any questions or would like to collaborate on software development projects. I'm excited to connect with you and discuss how I can contribute to your team.
 - Email: prameswaara@gmail.com
 - LinkedIn: https://www.linkedin.com/in/prameswaradev/
@@ -11,6 +9,7 @@ Please feel free to reach out to me through email or LinkedIn if you have any qu
   
 
 ## Summary
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prameswaraandhika&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 - I frequently solve problems on platforms such as HackerRank and LeetCode, which has helped me develop my problem-solving skills and stay up to date with the 	 
   latest trends in programming
 - Currently working as freelance Software Developer.
