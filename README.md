@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![dark](https://raw.githubusercontent.com/prameswaraandhika/prameswaraandhika/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
 
 ## Andhika Prameswara - Software Developer
