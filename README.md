@@ -1,8 +1,4 @@
-#### 🏊‍♂️ Weekly Development Breakdown
-
-![light](https://raw.githubusercontent.com/prameswaraandhika/prameswaraandhika/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-![dark](https://raw.githubusercontent.com/prameswaraandhika/prameswaraandhika/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
-
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prameswaraandhika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Andhika Prameswara - Software Developer
 Please feel free to reach out to me through email or LinkedIn if you have any questions or would like to collaborate on software development projects. I'm excited to connect with you and discuss how I can contribute to your team.
